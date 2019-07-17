@@ -31,3 +31,8 @@
 ^telemetry[-.]
 ^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
+^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
+^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
+^(.+[-_.])??xn--
+^.+\.(ru|cn|ro|ml|ga|gq|cf|tk|pw|ua|ug|ve|info|site|club|host|party)$
+(^|\.)roku\.com$
